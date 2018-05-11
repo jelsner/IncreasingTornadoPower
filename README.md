@@ -1,4 +1,4 @@
-# IncreasingTornadoPower
+# Increasing Tornado Power
 
 Code written in support of _Increasingly powerful tornadoes in the United States_ by Elsner and Fricker.
 
